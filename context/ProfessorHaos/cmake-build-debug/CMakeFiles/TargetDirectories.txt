@@ -1,0 +1,3 @@
+/mnt/c/Users/Максим/Dropbox/algos/context/ProfessorHaos/cmake-build-debug/CMakeFiles/4_.dir
+/mnt/c/Users/Максим/Dropbox/algos/context/ProfessorHaos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Максим/Dropbox/algos/context/ProfessorHaos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

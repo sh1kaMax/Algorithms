@@ -1,0 +1,6 @@
+C:\Windows\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/Максим/Dropbox/algos/timus/HyperJump/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/Максим/Dropbox/algos/timus/HyperJump -B /mnt/c/Users/Максим/Dropbox/algos/timus/HyperJump/cmake-build-debug"
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+-- Configuring incomplete, errors occurred!

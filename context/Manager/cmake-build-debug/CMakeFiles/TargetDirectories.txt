@@ -1,0 +1,3 @@
+C:/Users/Макс/Dropbox/algos/context/Manager/cmake-build-debug/CMakeFiles/Manager.dir
+C:/Users/Макс/Dropbox/algos/context/Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Макс/Dropbox/algos/context/Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

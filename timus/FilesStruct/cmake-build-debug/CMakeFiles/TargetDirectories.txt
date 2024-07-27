@@ -1,0 +1,3 @@
+C:/Users/Max/Dropbox/algos/timus/FilesStruct/cmake-build-debug/CMakeFiles/FilesStruct.dir
+C:/Users/Max/Dropbox/algos/timus/FilesStruct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Max/Dropbox/algos/timus/FilesStruct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

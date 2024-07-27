@@ -1,0 +1,28 @@
+C:\Windows\system32\wsl.exe --distribution Debian --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/Максим/Dropbox/algos/context/Zoo/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/Максим/Dropbox/algos/context/Zoo -B /mnt/c/Users/Максим/Dropbox/algos/context/Zoo/cmake-build-debug"
+-- The C compiler identification is GNU 12.2.0
+-- The CXX compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+CMake Error at /usr/share/cmake-3.25/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile):
+  The file:
+
+    /mnt/c/Users/Максим/Dropbox/algos/context/Zoo/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-MvmDVr/CMakeCache.txt
+
+  could not be removed:
+
+    Permission denied
+Call Stack (most recent call first):
+  /usr/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring incomplete, errors occurred!
+See also "/mnt/c/Users/Максим/Dropbox/algos/context/Zoo/cmake-build-debug/CMakeFiles/CMakeOutput.log".

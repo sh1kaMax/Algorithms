@@ -1,0 +1,3 @@
+C:/Users/Max/Dropbox/algos/timus/MonoPool/cmake-build-debug/CMakeFiles/MonoPool.dir
+C:/Users/Max/Dropbox/algos/timus/MonoPool/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Max/Dropbox/algos/timus/MonoPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
